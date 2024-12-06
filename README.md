@@ -51,7 +51,7 @@ This project demonstrates a robust implementation of Authentication, Authorizati
 1. **Clone the repository:**
 
 ```bash
-git clone <>
+git clone https://github.com/yashsharma2172/rbac.git
 cd rbac
 ```
 2.	Install dependencies:
@@ -119,33 +119,7 @@ Frontend
 	•	Displays user-specific content.
 	3.	Logout:
 	•	Clears the session and redirects to the login page.
-# Database Schema and Seed Data
 
-## User and Role Schema
-
-![User and Role Schema](assets/images/schema.png)
-
-## Permissions Table
-
-![Permissions Table](assets/images/permissions.png)
-
-## Roles Table
-
-![Roles Table](assets/images/roles.png)
-
-## Seeded Users
-
-![Seeded Users](assets/images/users.png)
-
-## Permissions to Role Mapping
-
-![Permissions to Role Mapping](assets/images/permissions_to_roles.png)
-Future Improvements
-
-	1.	Add support for OAuth-based authentication.
-	2.	Implement email verification for signup.
-	3.	Introduce paginated user management for admins.
-	4.	Enhance role/permission management with a UI.
 
 Conclusion
 
